@@ -30,7 +30,6 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [License](#license)
 
 ## Travel Planning
-- [RoamRank](https://roamrank.com) - City guides and location insights for digital nomads with neighbourhood heatmaps and cost of living data.
 - [Lonely Planet](http://lonelyplanet.com) - The most recognised travel guides for over fourty years, start here for inspiration.
 - [Nomad List](http://nomadlist.com) - Search for your next base using digital nomad friendly filters such as internet quality, living costs, and places to work.
 - [Atlas Obscura](http://atlasobscura.com) - The definitive guide to the world's wondrous and curious places.
@@ -46,6 +45,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [Teleport](https://teleport.org/) - Compare cities on quality of life, cost of living, salaries and more.
 - [OpenSignal](https://opensignal.com/) - Get better signal, find free Wifi and see which operator is best in your location.
 - [Quanto Custa Viajar](https://quantocustaviajar.com/) - Information about how much it costs to travel for a specific place. In PT-BR.
+- [RoamRank](https://roamrank.com) - City guides and location insights for digital nomads with neighbourhood heatmaps and cost of living data.
 
 ## Insurance
 - [World Nomads](https://www.worldnomads.com/) - Travel insurance for short and long periods, with possiblity to cover the whole world.
