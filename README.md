@@ -30,6 +30,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 - [License](#license)
 
 ## Travel Planning
+- [RoamRank](https://roamrank.com) - City guides and location insights for digital nomads with neighbourhood heatmaps and cost of living data.
 - [Lonely Planet](http://lonelyplanet.com) - The most recognised travel guides for over fourty years, start here for inspiration.
 - [Nomad List](http://nomadlist.com) - Search for your next base using digital nomad friendly filters such as internet quality, living costs, and places to work.
 - [Atlas Obscura](http://atlasobscura.com) - The definitive guide to the world's wondrous and curious places.
